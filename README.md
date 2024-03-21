@@ -1,11 +1,9 @@
 # awesome-minimal-sites
 An opinionated collection of minimal but good looking websites.
 
-## Products
+## Tools / Products
 - [sfcompute.com](https://sfcompute.com/)
 - [bmrks.com](https://bmrks.com)
-- [sheetmonkey.io](https://sheetmonkey.io)
-- [smmall.cloud](https://smmall.cloud)
 - [morning.so](https://morning.so)
 - [wunderbucket.io](https://wunderbucket.io)
 - [daftsocial.com](https://daftsocial.com)
@@ -13,8 +11,11 @@ An opinionated collection of minimal but good looking websites.
 - [tweek.so](https://tweek.so)
 - [gather.do](https://gather.do)
 - [hearthands.tech](https://hearthands.tech)
+- [sheetmonkey.io](https://sheetmonkey.io)
+- [smmall.cloud](https://smmall.cloud)
 - [campsite.co](https://campsite.co)
 - [issuemailer.com](https://issuemailer.com)
+- [react-postgres-components.vercel.app](react-postgres-components.vercel.app)
 
 ## Personal Websites
 - [mitul.ca](https://mitul.ca)
