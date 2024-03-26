@@ -18,6 +18,7 @@ An opinionated collection of minimal but good looking websites.
 - [react-postgres-components.vercel.app](react-postgres-components.vercel.app)
 
 ## Personal Websites
+- [kamranahmed.info](https://kamranahmed.info)
 - [mitul.ca](https://mitul.ca)
 - [joaobborges.com](https://joaobborges.com)
 - [jasongorman.uk](https://jasongorman.uk/)
