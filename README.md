@@ -26,7 +26,7 @@ An opinionated collection of minimal but good looking websites.
 - [allan.bio](https://allan.bio)
 - [denismoulin.com](https://denismoulin.com/)
 - [fayazahmed.com](https://fayazahmed.com)
-- [craighooper.xy`](https://craighooper.xyz/)
+- [craighooper.xyz](https://craighooper.xyz/)
 - [omercan.io](https://omercan.io/)
 - [cassandratang.me](https://cassandratang.me)
 - [aarv.me](https://aarv.me)
