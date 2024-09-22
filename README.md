@@ -15,7 +15,7 @@ An opinionated collection of minimal but good looking websites.
 - [smmall.cloud](https://smmall.cloud)
 - [campsite.co](https://campsite.co)
 - [issuemailer.com](https://issuemailer.com)
-- [react-postgres-components.vercel.app](react-postgres-components.vercel.app)
+- [react-postgres-components.vercel.app](https://react-postgres-components.vercel.app/)
 
 ## Personal Websites
 - [kamranahmed.info](https://kamranahmed.info)
