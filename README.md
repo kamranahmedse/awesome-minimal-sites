@@ -2,9 +2,11 @@
 An opinionated collection of minimal but good looking websites.
 
 ## Tools / Products
+
 - [sfcompute.com](https://sfcompute.com/)
 - [bmrks.com](https://bmrks.com)
 - [morning.so](https://morning.so)
+- [agora.xyz](https://www.agora.xyz)
 - [wunderbucket.io](https://wunderbucket.io)
 - [daftsocial.com](https://daftsocial.com)
 - [viewport.co](https://viewport.co/)
