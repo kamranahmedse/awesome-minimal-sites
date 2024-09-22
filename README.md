@@ -6,6 +6,7 @@ An opinionated collection of minimal but good looking websites.
 - [bmrks.com](https://bmrks.com)
 - [morning.so](https://morning.so)
 - [wunderbucket.io](https://wunderbucket.io)
+- [daftsocial.com](https://daftsocial.com)
 - [viewport.co](https://viewport.co/)
 - [tweek.so](https://tweek.so)
 - [gather.do](https://gather.do)
