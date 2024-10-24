@@ -1,4 +1,5 @@
 # awesome-minimal-sites
+
 An opinionated collection of minimal but good looking websites.
 
 ## Tools / Products
@@ -20,11 +21,12 @@ An opinionated collection of minimal but good looking websites.
 - [react-postgres-components.vercel.app](https://react-postgres-components.vercel.app/)
 
 ## Personal Websites
+
 - [kamranahmed.info](https://kamranahmed.info)
 - [mitul.ca](https://mitul.ca)
 - [joaobborges.com](https://joaobborges.com)
 - [jasongorman.uk](https://jasongorman.uk/)
-- [some.studio](https://some.studio)
+- [piet.page](https://piet.page/)
 - [allan.bio](https://allan.bio)
 - [denismoulin.com](https://denismoulin.com/)
 - [fayazahmed.com](https://fayazahmed.com)
