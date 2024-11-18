@@ -4,6 +4,8 @@ An opinionated collection of minimal but good looking websites.
 
 ## Tools / Products
 
+- [notemap.com](https://notemap.com)
+- [time.fyi](https://time.fyi)
 - [sfcompute.com](https://sfcompute.com/)
 - [bmrks.com](https://bmrks.com)
 - [morning.so](https://morning.so)
