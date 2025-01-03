@@ -21,6 +21,7 @@ An opinionated collection of minimal but good looking websites.
 - [campsite.co](https://campsite.co)
 - [issuemailer.com](https://issuemailer.com)
 - [react-postgres-components.vercel.app](https://react-postgres-components.vercel.app/)
+- [tiny.supply](https://tiny.supply/)
 
 ## Personal Websites
 
