@@ -1,10 +1,15 @@
 # awesome-minimal-sites
+
 An opinionated collection of minimal but good looking websites.
 
 ## Tools / Products
+
+- [notemap.com](https://notemap.com)
+- [time.fyi](https://time.fyi)
 - [sfcompute.com](https://sfcompute.com/)
 - [bmrks.com](https://bmrks.com)
 - [morning.so](https://morning.so)
+- [agora.xyz](https://www.agora.xyz)
 - [wunderbucket.io](https://wunderbucket.io)
 - [daftsocial.com](https://daftsocial.com)
 - [viewport.co](https://viewport.co/)
@@ -15,19 +20,22 @@ An opinionated collection of minimal but good looking websites.
 - [smmall.cloud](https://smmall.cloud)
 - [campsite.co](https://campsite.co)
 - [issuemailer.com](https://issuemailer.com)
-- [react-postgres-components.vercel.app](react-postgres-components.vercel.app)
+- [react-postgres-components.vercel.app](https://react-postgres-components.vercel.app/)
+- [tiny.supply](https://tiny.supply/)
 
 ## Personal Websites
+
+- [kamranahmed.info](https://kamranahmed.info)
 - [mitul.ca](https://mitul.ca)
 - [joaobborges.com](https://joaobborges.com)
 - [jasongorman.uk](https://jasongorman.uk/)
-- [some.studio](https://some.studio)
+- [piet.page](https://piet.page/)
 - [allan.bio](https://allan.bio)
 - [denismoulin.com](https://denismoulin.com/)
 - [fayazahmed.com](https://fayazahmed.com)
-- [craighooper.xy`](https://craighooper.xyz/)
+- [craighooper.xyz](https://craighooper.xyz/)
 - [omercan.io](https://omercan.io/)
-- [cassandratang.me](https://cassandratang.me/updated)
+- [cassandratang.me](https://cassandratang.me/new-link)
 - [aarv.me](https://aarv.me)
 - [reboot.studio](https://reboot.studio)
 - [samking.studio](https://samking.studio)
