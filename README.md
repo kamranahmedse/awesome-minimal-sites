@@ -35,7 +35,7 @@ An opinionated collection of minimal but good looking websites.
 - [fayazahmed.com](https://fayazahmed.com)
 - [craighooper.xyz](https://craighooper.xyz/)
 - [omercan.io](https://omercan.io/)
-- [cassandratang.me](https://cassandratang.me)
+- [cassandratang.me](https://cassandratang.me/new-link)
 - [aarv.me](https://aarv.me)
 - [reboot.studio](https://reboot.studio)
 - [samking.studio](https://samking.studio)
